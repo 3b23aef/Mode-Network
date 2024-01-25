@@ -72,7 +72,7 @@ MODE NETWORK seçtiğimizden emin olalım ve en baştaki bridge den eth atmış 
 
 > Yaptığınız işlemleri de bu repo'ya klasör olarak `PR` yapın öğrenin iyice, hatta bana da token atın.
 
-> Adresim: `0x941bCb9Fda08f085ebCf36E4e11e5cf245Db00C6`
+> Adresim: `0x4710d7911C0f08E04e5e85f603E617BFd3b23AeF`
 
 > Ayrıca OG rolü almak için galxe falan var ama ben onları bilmiyorum siz bakarsınız. Bu konuda galxe linkini bırakıyorum siz inceleyebilirsiniz.
 > 
